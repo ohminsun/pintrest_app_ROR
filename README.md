@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ruby on Rails (4.2.0)
 
 ## Using the Pack
@@ -29,3 +30,7 @@ rails new .
 
 
 
+=======
+# pintrest_app_ROR
+An app on Ruby on Rails, similar to Pintrest
+>>>>>>> 19c91acf22b8c9ff7309eebe120accf83f769353
