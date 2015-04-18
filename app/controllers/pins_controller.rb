@@ -9,7 +9,7 @@ class PinsController < ApplicationController
   end
   
   def show_by_name
-    @pin = "pins#show_by_name"
+    @pin = "/pins/name-#{pin.slug}"
     render :show
   end
   
