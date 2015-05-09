@@ -35,7 +35,7 @@ Rails.application.configure do
   # Raises error for missing translations
   # config.action_view.raise_on_missing_translations = true
 
-  #config for Paperclip and Imagemagick 
+  # Config for Paperclip and Imagemagick 
   Paperclip.options[:command_path] = "/home/codio/.parts/bin/convert"
   config.paperclip_defaults = {
   :storage => :s3,
