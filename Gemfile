@@ -40,4 +40,6 @@ gem 'spring',        group: :development
 
 gem 'rails_12factor'
 
+gem 'paperclip'
+
 
